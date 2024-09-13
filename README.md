@@ -115,9 +115,6 @@ A browser window will open prompting you to log in to your Spotify account and a
 
 After the script finishes running, you'll have a new playlist in your Spotify account named after the date you provided.
 
-![Playlist Screenshot](https://your-image-link.com/playlist-screenshot.png)
-
-*Note: Replace the image link above with an actual screenshot of your created playlist.*
 
 ## Project Structure
 
