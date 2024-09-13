@@ -2,10 +2,6 @@
 
 Create a Spotify playlist of the Billboard Hot 100 songs from any date you choose.
 
-![Spotify Playlist](https://your-image-link.com/playlist-screenshot.png)
-
-*Note: Replace the image link above with a screenshot of your Spotify playlist once created.*
-
 ## Table of Contents
 
 - [Overview](#overview)
